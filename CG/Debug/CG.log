@@ -1,0 +1,16 @@
+﻿生成启动时间为 2014/12/28 22:55:45。
+     1>项目“C:\Users\bigbigsnail\Desktop\Code\CG\CG\CG.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CG.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CGDlg.cpp
+         CGDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\bigbigsnail\Desktop\Code\CG\Debug\CG.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\bigbigsnail\Desktop\Code\CG\Debug\CG.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\bigbigsnail\Desktop\Code\CG\Debug\CG.lib" /MACHINE:X86 Debug\CG.res
+         Debug\CG.obj
+         Debug\CGDlg.obj
+         Debug\stdafx.obj
+         CG.vcxproj -> C:\Users\bigbigsnail\Desktop\Code\CG\Debug\CG.exe
+     1>已完成生成项目“C:\Users\bigbigsnail\Desktop\Code\CG\CG\CG.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.20
